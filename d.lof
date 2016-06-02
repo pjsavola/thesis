@@ -1,0 +1,42 @@
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {finnish}
+\select@language {english}
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces An example of a small spin glass system}}{4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Example of a ferromagnetic lattice, where a path of red edges goes through the lattice and separates two clusters of similarly oriented spins}}{5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 2-SAT to spin glass transformation}}{8}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Spin glass system representing the 2-SAT formula $(a \lor b) \land (\neg b \lor \neg b) \land (a \lor \neg b)$}}{8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Spanning path for a hexagonal lattice}}{12}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The search tree for a single ferromagnetic hexagon}}{12}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The search tree for a single hexagon with an odd number of antiferromagnetic bonds}}{12}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces $\alpha $ estimation for ferromagnetic lattice using an ensemble of 1000 lattices and 10000 descents per system}}{17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces $\alpha $ estimation for spin glass lattice using an ensemble of 1000 lattices and 10000 descents per system}}{18}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The distance from the uniform distribution as a function of bias}}{20}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The leaf size estimate using a lattice of 271 hexagons}}{21}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The leaf size estimate using a lattice of 631 hexagons}}{22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Square lattice}}{26}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Two ways to represent the Bethe lattice with $d = 3$}}{27}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Idea behind the recurrence relations.}}{28}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Ferromagnetic square lattice}}{29}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Bethe lattice with $d = 3$}}{30}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Linear tree of height 3}}{32}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Local minima energy distribution of a spin glass lattice}}{33}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Local minima energy distribution of a ferromagnetic lattice}}{34}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Concentration of the local minima of a spin glass lattice}}{35}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Concentration of the local minima of a ferromagnetic lattice}}{36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Ensembles of 1000 systems of different size}}{38}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Scatter plot using systems of 60000 spins and different values of $p$}}{40}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Q-Q plot of a spin glass-lattice of 1350 spins}}{41}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Q-Q plot of a ferromagnetic lattice of 1350 spins}}{41}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces A spin glass in an external magnetic field.}}{46}
+\addvspace {10\p@ }

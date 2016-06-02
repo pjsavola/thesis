@@ -1,0 +1,147 @@
+\begin{thebibliography}{10}
+
+\bibitem{AnMa}
+C.~Ansótegui and F.~Manyà.
+\newblock {Mapping Problems with Finite-Domain Variables into Problems with
+  Boolean Variables}.
+\newblock In {\em The Seventh International Conference on Theory and
+  Applications of Satisfiability Testing}, 2004.
+
+\bibitem{CrKa}
+G.~Ausiello, P.~Crescenzi, G.~Gambosi, V.~Kann, A.~Marchetti-Spaccamela, and
+  M.~Protasi.
+\newblock {\em {Combinatorial Optimization Problems and Their Approximability
+  Properties}}.
+\newblock Springer, 2003.
+
+\bibitem{Ba00}
+R.~Z. Bariev.
+\newblock {Two-dimensional Ising model and local nonuniversality of critical
+  exponents}.
+\newblock {\em Brazilian Journal of Physics}, 30(4):680--681, 2000.
+
+\bibitem{Ba82}
+R.~J. Baxter.
+\newblock {\em {Exactly Solved Models in Statistical Mechanics}}.
+\newblock Academic Press, 1982.
+
+\bibitem{Be35}
+H.~A. Bethe.
+\newblock {Statistical theory of superlattices}.
+\newblock {\em Proceedings of the Royal Society of London. Series A,
+  Mathematical and Physical Sciences}, 150(871):552--575, 1935.
+
+\bibitem{EdAn}
+S.~F. Edwards and P.~W. Anderson.
+\newblock {Theory of spin glasses}.
+\newblock {\em Journal of Physics F: Metal Physics}, 5(5):965--974, 1975.
+
+\bibitem{Ha05}
+E.~I. Hauge.
+\newblock {Lars Onsager: The NTH student who became one of the greatest
+  scientists of the 20th century}.
+\newblock {\em Energy}, 30(6):787--793, 2005.
+
+\bibitem{Simo}
+S.~K. Kivelä.
+\newblock {\em {Reaalimuuttujan Analyysi}}.
+\newblock Otatieto, 1992.
+
+\bibitem{Kn75}
+D.~E. Knuth.
+\newblock {Estimating the efficiency of backtrack programs}.
+\newblock {\em Mathematics of Computation}, 29:121--136, 1975.
+
+\bibitem{MaLi}
+S.~Masui, T.~Li, B.~W. Southern, and A.~E. Jacobs.
+\newblock {Metastable states of Ising models on the honeycomb lattice}.
+\newblock {\em Physical Review B}, 40:7096--7100, 1989.
+
+\bibitem{MaSo}
+S.~Masui, B.~W. Southern, and A.~E. Jacobs.
+\newblock {Metastable states of Ising spin glasses and random ferromagnets}.
+\newblock {\em Physical Review B}, 39:6925--6933, 1989.
+
+\bibitem{NeBa}
+M.~E.~J. Newman and G.~T. Barkema.
+\newblock {\em {Monte Carlo Methods in Statistical Physics}}.
+\newblock Clarendon Press, Oxford, 1999.
+
+\bibitem{NiOh}
+H.~Nishimori and M.~Ohzeki.
+\newblock {Location of the Multicritical Point for the Ising Spin Glass on the
+  Triangular and Hexagonal Lattices}.
+\newblock {\em Journal of the Physical Society of Japan}, 75:034004, 2006.
+
+\bibitem{Oh08}
+Masayuki Ohzeki.
+\newblock {Precise locations of multicritical points for spin glasses on
+  regular lattices}.
+\newblock {\em arXiv:0811.0404}, 2008.
+
+\bibitem{Or09}
+P.~Orponen.
+\newblock {T-79.5204 Combinatorial Models and Stochastic Algorithms Lecture
+  Notes}.
+\newblock Retrieved 27.5.2009.
+
+\bibitem{Pa94}
+C.~H. Papadimitriou.
+\newblock {\em {Computational Complexity}}.
+\newblock Addison-Wesley, 1994.
+
+\bibitem{RoOl}
+E.~S. Rodrigues and P.~M.~C. Oliveira.
+\newblock {Spin-Glass Energy Landscape}.
+\newblock {\em Journal of Statistical Physics}, 75(5-6), 1994.
+
+\bibitem{Ro93}
+P.~R. Rosenbaum.
+\newblock {Sampling the Leaves of a Tree With Equal Probabilities}.
+\newblock {\em Journal of the American Statistical Association},
+  88(424):1455--1457, 1993.
+
+\bibitem{SeSe}
+H.~Seyed-Allaei, H.~Seyed-Allaei, and M.~R. Ejtehadi.
+\newblock {Energy-landscape networks of spin glasses}.
+\newblock {\em Physical Review E}, 77(3):031105, 2008.
+
+\bibitem{ShKi}
+D.~Sherrington and S.~Kirkpatrick.
+\newblock {Solvable model of a spin-glass}.
+\newblock {\em Physical Review Letters}, 35:1792--1796, 1975.
+
+\bibitem{SiDi}
+C.~Simone, M.~Diehl, M.~Jünger, P.~Muntzel, G.~Reinelt, and G.~Rinaldi.
+\newblock {Exact ground states of Ising spin glasses: New experimental results
+  with a branch-and-cut algorithm}.
+\newblock {\em Journal of Statistical Physics}, 80(1):487--496, 1995.
+
+\bibitem{TaEd}
+F.~Tanaka and S.~F. Edwards.
+\newblock {Analytic theory of the ground state properties of a spin glass. I.
+  Ising spin glass}.
+\newblock {\em Journal of Physics F: Metal Physics}, 10:2769--2778, 1980.
+
+\bibitem{WaBu}
+B.~Waclaw and Z.~Burda.
+\newblock {Counting metastable states of Ising spin glasses on arbitrary
+  graphs}.
+\newblock {\em Physical Review E}, 77:041114, 2008.
+
+\bibitem{LOGN}
+E.~W. Weisstein.
+\newblock {Log Normal Distribution}.
+\newblock From MathWorld--A Wolfram Web Resource. Retrieved 26.5.2009.
+
+\bibitem{Wu82}
+F.~Y. Wu.
+\newblock {The Potts model}.
+\newblock {\em Reviews of Modern Physics}, 54(1):235--268, 1982.
+
+\bibitem{YoFr}
+H.~D. Young, R.~A. Freedman, F.~W. Sears, and M.~W. Zemansky.
+\newblock {\em {Sears and Zemansky's University Physics}}, pages 976--977.
+\newblock Pearson Addison-Wesley, San Francisco (CA), 2008.
+
+\end{thebibliography}

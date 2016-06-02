@@ -1,0 +1,43 @@
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {finnish}
+\select@language {english}
+\select@language {english}
+\contentsline {chapter}{List of Figures}{vi}
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Outline}{1}
+\contentsline {chapter}{\numberline {2}Spin Glasses and Energy Minima}{3}
+\contentsline {section}{\numberline {2.1}The Ising model}{3}
+\contentsline {section}{\numberline {2.2}Energy landscapes}{4}
+\contentsline {section}{\numberline {2.3}Computational complexity}{6}
+\contentsline {chapter}{\numberline {3}Counting and Sampling of Metastable States}{10}
+\contentsline {section}{\numberline {3.1}Hexagonal lattice}{10}
+\contentsline {section}{\numberline {3.2}Search tree generation}{10}
+\contentsline {section}{\numberline {3.3}Pruning rules}{11}
+\contentsline {section}{\numberline {3.4}Algorithm for sampling}{13}
+\contentsline {section}{\numberline {3.5}Leaf size approximation}{16}
+\contentsline {section}{\numberline {3.6}Results}{16}
+\contentsline {chapter}{\numberline {4}Improvements and Analysis of Sampling}{19}
+\contentsline {section}{\numberline {4.1}Improved approximation}{19}
+\contentsline {section}{\numberline {4.2}Reliability of the results}{23}
+\contentsline {chapter}{\numberline {5}Exact Calculations}{26}
+\contentsline {section}{\numberline {5.1}Ferromagnetic square lattice}{26}
+\contentsline {section}{\numberline {5.2}Bethe lattice}{27}
+\contentsline {section}{\numberline {5.3}Conclusions}{29}
+\contentsline {chapter}{\numberline {6}Almost Uniform Sampling of Metastable States}{31}
+\contentsline {section}{\numberline {6.1}Subtree size approximation}{31}
+\contentsline {section}{\numberline {6.2}Energy distribution results}{33}
+\contentsline {section}{\numberline {6.3}Sampling of the full distribution}{35}
+\contentsline {chapter}{\numberline {7}Spin Glass - Ferromagnet Phase Transition}{37}
+\contentsline {section}{\numberline {7.1}Behavior of the number of metastable states}{38}
+\contentsline {section}{\numberline {7.2}Exploration of very large lattices}{39}
+\contentsline {chapter}{\numberline {8}Related Work}{42}
+\contentsline {section}{\numberline {8.1}The number of metastable states}{42}
+\contentsline {section}{\numberline {8.2}Spin glass energy landscape}{43}
+\contentsline {section}{\numberline {8.3}Sampling techniques}{44}
+\contentsline {section}{\numberline {8.4}Location of the multicritical point}{44}
+\contentsline {section}{\numberline {8.5}External magnetic field}{45}
+\contentsline {chapter}{\numberline {9}Conclusions}{47}
+\contentsline {chapter}{Bibliography}{48}
